@@ -1,4 +1,4 @@
-[![MasterHead](https://hackernoon.com/images/f2px36fy.gif)]
+![MasterHead](https://hackernoon.com/images/f2px36fy.gif)
 <h1 align="center">Hi 👋, I'm Aashi Gupta</h1>
 <h3 align="center">A Third-year AI student driven by continuous learning and eager to contribute to cutting-edge projects in emerging technologies.</h3>
 <img align = "right" alt="coding" width=400 src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif">
